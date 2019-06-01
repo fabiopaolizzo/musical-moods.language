@@ -1,4 +1,5 @@
-# musicalmoods
+# musical-moods.language
+
 MUSICAL-MOODS: multimodal dataset
 
 Dr. Fabio Paolizzo. Department of Electronic Engineering, University of Rome Tor Vergata.
