@@ -2,7 +2,7 @@
 
 This repository contains the natural language data component of the MUSICAL-MOODS project, a foundational resource for training and validating AI models on complex, subjective, and unstructured human data.
 
-**For a full overview of the project, please see the [central project hub](https://github.com/fabiopaolizzo/musical-moods.main).**
+**For a full overview of the project, please see the [central project hub](https://github.com/fabiopaolizzo/musical-moods).**
 
 ---
 
